@@ -34,6 +34,10 @@ Este repositório contém diversas ferramentas e frameworks para desenvolvimento
   - **Docling** → Implementações de Retrieval-Augmented Generation.  
 
 - **useful library** → Implementações de Retrieval-Augmented Generation.  
+  - **Pydantic** → Implementações de Retrieval-Augmented Generation.  
+  - **Rich** → Implementações de Retrieval-Augmented Generation.  
+  - **Polars** → Implementações de Retrieval-Augmented Generation.  
+
 
 
 ## 🚀 Como Usar  
