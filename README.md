@@ -1,6 +1,6 @@
 # LLM Tools for API Development
 
-Este repositório contém diversas ferramentas e frameworks para desenvolvimento de aplicações de IA baseadas em modelos de linguagem.
+Este repositório contém diversas ferramentas e frameworks para desenvolvimento de aplicações de IA baseadas em LLMs.
 
 ## 📂 Estrutura do Repositório
 
